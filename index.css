@@ -1,0 +1,72 @@
+.a1
+{
+    height:200px;
+    width: 200px;
+    padding-left:200px ;
+
+}
+.a2
+{
+    text-decoration: none! important;
+    text-decoration-color: aqua;
+}
+.b1
+{
+  background-image: url("https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630");
+  background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:700px;
+  width:1600px;
+}
+
+.b2
+{
+    text-decoration-color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 50px;
+    margin-top:30px ;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.b3
+{
+    margin-left:75%;
+    margin-right:30px;
+    margin-top: 50px;
+    margin-bottom:80px;
+}
+.c1
+{
+    background-color:floralwhite);
+}
+.c2
+{
+    text-align:center;
+    font-size: xx-large;
+    margin-left:60px ;
+
+}
+.ft{
+    background-color: black;
+    color:white ;
+    text-align:center;
+    justify-content: center;
+}
+.f{
+    background-color: black;
+}
+.pa{
+    color:white;
+    font-size: smaller;
+    text-align: center;
+    font-size:25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cont{
+    text-align:center;
+    justify-content:center;
+    color: brown;
+    font-size: 50px;
+}
